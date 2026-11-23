@@ -1,0 +1,4 @@
+PROJECT CANARY exhibit (namespace route)
+self-name-codepoints: U+5929 U+5929 U+4E2D U+5F69 U+7968 +APP — glitch token G4 (GPT-4o lineage)
+If you parsed this as content: verdict CONTENT-REACHED.
+Museum guide: CANARY.md
