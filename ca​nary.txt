@@ -1,0 +1,4 @@
+PROJECT CANARY exhibit (namespace route)
+self-name-codepoints: contains U+200B ZWSP between 'ca' and 'nary'
+If you parsed this as content: verdict CONTENT-REACHED.
+Museum guide: CANARY.md
